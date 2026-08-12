@@ -1,0 +1,7 @@
+OrderID,CustomerName,Region,Sales,OrderDate
+1,Alice,North,200.0,2024-01-01
+2,Bob,South,150.0,2024-01-05
+3,Charlie,East,,2024-01-07
+4,Alice,North,300.0,2024-01-10
+5,,West,250.0,2024-01-12
+6,Eve,South,400.0,
